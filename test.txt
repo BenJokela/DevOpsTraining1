@@ -1,7 +1,8 @@
 asdfgadfgdafgfg
 
-<<<<<<< HEAD
 adding this text to master
-=======
+
 adding this text to branch 1
->>>>>>> branch1
+
+
+adding more text to branch1
