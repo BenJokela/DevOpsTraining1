@@ -7,3 +7,5 @@ adding this text to branch 1
 
 adding more text to branch1
 
+
+adding more text to master
